@@ -27,7 +27,7 @@ export const authOptions = {
                     console.log("error",error)
                 }
                
-                return user
+               // return user
             },
         }),
     ],
